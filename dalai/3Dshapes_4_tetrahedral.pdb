@@ -1,0 +1,9 @@
+REMARK   This PDB file is created by CS Chem3D                                  
+REMARK                                                                          
+COMPND   3Dshapes_4_tetrahedral.pdb                                             
+HETATM    1  C   UNK     0      -7.283  -0.020   0.016                       C  
+HETATM    2  H   UNK     0      -8.166   0.192   0.659                       H  
+HETATM    3  H   UNK     0      -6.365   0.378   0.503                       H  
+HETATM    4  H   UNK     0      -7.182  -1.120  -0.125                       H  
+HETATM    5  H   UNK     0      -7.419   0.469  -0.975                       H  
+END   
