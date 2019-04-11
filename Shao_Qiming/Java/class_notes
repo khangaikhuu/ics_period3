@@ -1,0 +1,41 @@
+Type
+
+-Primitive Types
+	-int: stand for the integer
+	-double
+	-float: stand for decimal
+	-string: stand for sentence or words
+	-boolean:
+	-char: similar to string
+	-long type
+
+-constructor: Build object from class
+
+-Parameter: A parameter is a variable in a method definition. When a method is called, 
+the arguments are the data you pass into the method's parameter. PARAMETER IS VARIABLE 
+IN THE DECLARATION OF FUNCTION.
+
+-Argument: The actual value of this variable that gets passed to function
+
+
+What is Class?
+
+Answer: A class is like an idea or a plan or a structure of a real world identity.
+
+What is Object?
+
+Answer: The object is the entity or commodity which comes into existence to perform 
+its functions based on the plan (design of the class)
+
+Every object in java belong to a class, every thing in java is a object
+
+
+Basic Syntax:
+
+* Class Names - For all class names the first letter should be in upper case. If 
+several words are used to form a name of the class, each inner word's first letter 
+should be in upper case. Example: MyFirstJavaClass
+
+Class name must match the program name exactly.
+
+Encapsulation: Hiding information from the public.
